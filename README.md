@@ -20,7 +20,7 @@ Acá dejo mi [linkedin](https://www.linkedin.com/in/nahuel-martinez-7b898a218/)
    * C
    * Java
    * Python
-   * Javascript
+   * JavaScript
 * Hacer Futsal con la universidad
 * Hacer ejercicio
 * Jugar videojuegos
