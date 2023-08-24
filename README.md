@@ -3,7 +3,7 @@
 ## Mi presentación personal
 Hola mi nombre es *_Nahuel_* actualmente soy alumno de la universidad de [Jose C. Paz](www.unpaz.edu.ar).
 ### Mis gustos personales son
- *ver ONE PIECE
+ * ver ONE PIECE
  * Programar
    * C
    * Java
