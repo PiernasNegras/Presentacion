@@ -1,7 +1,7 @@
 # Nahuel Martinez
 ## Mi presentación personal
 Hola mi nombre es *_Nahuel_*, actualmente soy alumno de la universidad de [Jose C. Paz](www.unpaz.edu.ar).
-Mis gustos personales son
+### Mis gustos personales son
  * Programar
    * C
    * Java
