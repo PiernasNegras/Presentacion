@@ -10,4 +10,4 @@ Hola mi nombre es *_Nahuel_* mis gustos personales son
 * Hacer ejercicio
 * Jugar videojuegos
 
-Aquí les dejo mi [linkedin](https://www.linkedin.com/in/nahuel-martinez-7b898a218/)
+Acá dejo mi [linkedin](https://www.linkedin.com/in/nahuel-martinez-7b898a218/)
