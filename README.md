@@ -14,8 +14,8 @@ Acá dejo mi [linkedin](https://www.linkedin.com/in/nahuel-martinez-7b898a218/)
    * Mis personajes favoritos son:
      * Sanji por su inteligencia
      * Zoro por su disciplina
-     * Luffy por su voluntad
-     * Douglas Bullet
+     * Luffy por siempre perseguir sus sueños
+     * Douglas Bullet por su voluntad y ambición
  * Programar
    * C
    * Java
