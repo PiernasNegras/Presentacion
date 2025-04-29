@@ -10,17 +10,19 @@ Hola mi nombre es *_Nahuel_* actualmente soy alumno de la [Universidad Nacional 
 
 Acá dejo mi [linkedin](https://www.linkedin.com/in/nahuel-martinez-7b898a218/)
 ### Mis gustos personales son
+ * Desarrollar en
+   * C
+   * Java
+   * Python
+   * JavaScript
+   * Node.JS
+ * Estar aprendiendo nuevas tecnologias
  * ver ONE PIECE me considero un fanatico
    * Mis personajes favoritos son:
      * Sanji por su inteligencia
      * Zoro por su disciplina
      * Luffy por siempre perseguir sus sueños
      * Douglas Bullet por su voluntad y ambición
- * Programar
-   * C
-   * Java
-   * Python
-   * JavaScript
-* Hacer Futsal con la universidad
+* Hacer Futbol 11 con la universidad
 * Hacer ejercicio
 * Jugar videojuegos
